@@ -1,0 +1,17 @@
+# Eclipse-specific files and folders
+.classpath
+.project
+.settings/
+
+# Maven build output
+target/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
